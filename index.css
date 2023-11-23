@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(205, 199, 199);
+    margin:20px;
+}
+main{
+    width: 100vw;
+    height: 100vh;
+}
+
+h1{
+    font-size: 70px;
+    margin-bottom: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.topic{
+    border-bottom: 2px solid balck;
+    margin: 20px 50px;
+}
+
+.topic h3{
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+.topic ul{
+    font-size: 20px;
+    padding-left: 30px;
+}
+
+.topic li{
+}
